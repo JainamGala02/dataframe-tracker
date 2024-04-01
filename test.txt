@@ -1,0 +1,17 @@
+Transformation: drop_columns
+  Transformation #1:
+  Arguments:
+       A  B
+0  1  3
+1  2  4
+    ['A']
+  Keyword Arguments:
+  DataFrame Before:
+   A  B
+0  1  3
+1  2  4
+  DataFrame After:
+   B
+0  3
+1  4
+
