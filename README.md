@@ -1,0 +1,1 @@
+The DataChangeTracker class leverages the concept of Change Data Capture (CDC), a technique commonly used in database systems to track changes in data over time.  By applying CDC principles to dataframes, the DataChangeTracker class offers a robust and scalable approach for recording various data modifications within a Python script.
